@@ -1,0 +1,53 @@
+{
+  "scientific_reproduction": "PASS",
+  "figure2_bar_segments": 90,
+  "figure2_nonzero_rectangles": 64,
+  "figure4_numeric_glyphs": 47,
+  "figure4_process_cells": 72,
+  "exact_overlaps": [
+    [
+      "Mix02_01",
+      "Mix02_06"
+    ]
+  ],
+  "PDF_comparison": [
+    {
+      "figure": 2,
+      "page_content_stream_identical": true,
+      "decoded_resources_identical": true,
+      "metadata_differences": {
+        "/CreationDate": {
+          "approved": "D:20261010142925-07'00'",
+          "regenerated": "D:20000101000000+00'00'"
+        },
+        "/ModDate": {
+          "approved": "D:20261010142925-07'00'",
+          "regenerated": "D:20000101000000+00'00'"
+        }
+      },
+      "trailer_ID_identical": false,
+      "status": "PASS"
+    },
+    {
+      "figure": 4,
+      "page_content_stream_identical": true,
+      "decoded_resources_identical": true,
+      "metadata_differences": {
+        "/CreationDate": {
+          "approved": "D:20261010225241-07'00'",
+          "regenerated": "D:20000101000000+00'00'"
+        },
+        "/ModDate": {
+          "approved": "D:20261010225241-07'00'",
+          "regenerated": "D:20000101000000+00'00'"
+        }
+      },
+      "trailer_ID_identical": false,
+      "status": "PASS"
+    }
+  ],
+  "privacy_scan": "PASS",
+  "privacy_issues": [],
+  "citation_authors": "Manuscript-verified scholarly names only; no contact details or affiliations",
+  "publication": "NOT_AUTHORIZED; do not publish or mint DOI without author approval"
+}

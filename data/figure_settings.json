@@ -1,0 +1,36 @@
+{
+  "reference_workbook": "JHM_Supplementary_Data_Gate5D_Recover_Approved.xlsx",
+  "reference_workbook_sha256": "a095dad60ae1915d45d685b7b5c3f10f9b70e795b4e9cf162dd9ffb9b5b6f639",
+  "manuscript": "JHM_Review_Submission_Final.docx",
+  "manuscript_sha256": "c458dc067199d8e6bd69e0caebc155bd96bf9e3f96a94fa2a2823c7714f169ce",
+  "dpi": 300,
+  "figure2_size_points": [
+    540,
+    500
+  ],
+  "figure4_size_points": [
+    540,
+    520
+  ],
+  "font": {
+    "regular_name": "arial.ttf",
+    "regular_sha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+    "bold_name": "arialbd.ttf",
+    "bold_sha256": "e8f4e3baf6cc35fed6fcce3a540e8b39e8f6cda1d22a28f2ec8f526fef7a43f5",
+    "redistributed": false
+  },
+  "source_conflicts": [
+    "U05_01",
+    "U13_01"
+  ],
+  "expected_counts": {
+    "studies": 31,
+    "decisions": 279,
+    "flags": 9,
+    "NA_classifications": 107,
+    "quantitative_records": 73,
+    "removal_records": 49,
+    "numeric_display": 47,
+    "process_cells": 72
+  }
+}

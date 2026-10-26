@@ -1,0 +1,75 @@
+{
+  "baseline_sha256": "a095dad60ae1915d45d685b7b5c3f10f9b70e795b4e9cf162dd9ffb9b5b6f639",
+  "input_policy": "Canonical workbook re-extracted directly; historical display CSV not used. Duplicated process fields omitted from quantitative inputs.",
+  "sources": [
+    {
+      "project_relative_path": "outputs/GATE5D_RECOVER_APPROVED_INTEGRATION/JHM_Supplementary_Data_Gate5D_Recover_Approved.xlsx",
+      "sha256": "a095dad60ae1915d45d685b7b5c3f10f9b70e795b4e9cf162dd9ffb9b5b6f639"
+    },
+    {
+      "project_relative_path": "outputs/JHM_SUBMISSION_FINAL/JHM_Review_Submission_Final.docx",
+      "sha256": "c458dc067199d8e6bd69e0caebc155bd96bf9e3f96a94fa2a2823c7714f169ce"
+    },
+    {
+      "project_relative_path": "scripts/gate4a_primary_analysis.py",
+      "sha256": "5c2678326813db8885562e469242c527baef90013a36f9dd6522d3e44c07fbe6"
+    },
+    {
+      "project_relative_path": "scripts/gate5b_integration.py",
+      "sha256": "ea1a7cb9f4bb8b31e4171713403b1ff0188c56ac7969fca3be7c3c3f2ded487b"
+    },
+    {
+      "project_relative_path": "work/S4_submission_alignment/figures.py",
+      "sha256": "018b125f0ade1b1b59c3f444a502f3bb868d55397eb0fe7f394996fa8e7d8071"
+    },
+    {
+      "project_relative_path": "work/S4_submission_alignment/payload.json",
+      "sha256": "347edcc2ba3bdf75d863ab4b4467d71b87aee32609068b8ef9770608a203cc0b"
+    },
+    {
+      "project_relative_path": "work/GATE5A_evidence_reconciliation/integrate_d03_d06.py",
+      "sha256": "6f1e138369761a79ea176ce995c62299e9ae5be4056039b3eb2e613c57470c08"
+    },
+    {
+      "project_relative_path": "outputs/GATE8B2_SCIENTIFIC_INTEGRATION/kept_assets/Figure2_S4_Evidence_Maturity.png",
+      "sha256": "7b6e735c2e29c2e670e64fbfcfd2fedb856b8aaf0347b81d5bcedf9b7f8d1c05"
+    },
+    {
+      "project_relative_path": "outputs/GATE8B2_SCIENTIFIC_INTEGRATION/kept_assets/Figure2_S4_Evidence_Maturity.pdf",
+      "sha256": "4bc651cc4bfb26a54d900032f8368f3fa0a5ab3830ff95e5fbb0348d9eb8a60c"
+    },
+    {
+      "project_relative_path": "outputs/GATE8B2_SCIENTIFIC_INTEGRATION/kept_assets/Figure4_D03_D06_Performance_Process.png",
+      "sha256": "5266e0e9f30b7adeffb47b264c2725c0e256f0bb79fdd4c034c46b32efc94da6"
+    },
+    {
+      "project_relative_path": "outputs/GATE8B2_SCIENTIFIC_INTEGRATION/kept_assets/Figure4_D03_D06_Performance_Process.pdf",
+      "sha256": "d9c0ee8e305acaf16b6878fb73ef8f5e4636dce84554345e63b93d460bebb3f1"
+    }
+  ],
+  "extracted_fragments": [
+    {
+      "file": "scripts/drawing_primitive.py",
+      "sha256": "4588fcbca3e24254d6c39ed7a605a87c21c6545674b0bb6ed4490dce0e9bf2a0"
+    },
+    {
+      "file": "scripts/figure2_original_plot.py",
+      "sha256": "bbdec1b34179fc019f1b4dcda5b1f59b881e0728739f92dcadd399c3ec8cfeee"
+    },
+    {
+      "file": "scripts/figure4_original_display.py",
+      "sha256": "1b6529f6b023fb9e85cdf589b6fd9b5a30231f3aeb5c6e8f3b6a4bc5ae605d28"
+    },
+    {
+      "file": "scripts/figure4_original_plot.py",
+      "sha256": "d09a075d5061a86d328a3319e1a93bb359852ae3a888b5091eff14b27ea42a99"
+    }
+  ],
+  "adaptations": [
+    "Extract figure-only plotting fragments; do not execute historical manuscript integration or historical data assertions.",
+    "Figure2 external narrow-NA label adjustment reproduced exactly from historical final figures.py.",
+    "Recount all groups from approved evidence_matrix_31.csv; do not load historical payload counts.",
+    "Figure4 canonical numeric observations joined to approved study matrix; no stale display/process metadata read.",
+    "Fonts supplied by caller, never redistributed. Original drawing commands and scientific plot settings preserved."
+  ]
+}

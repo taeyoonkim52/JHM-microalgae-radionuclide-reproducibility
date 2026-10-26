@@ -1,0 +1,110 @@
+{
+  "python": "3.12.14",
+  "dependencies": {
+    "Pillow": "12.3.0",
+    "reportlab": "4.4.9",
+    "pypdf": "6.10.0",
+    "pdfplumber": "0.11.9"
+  },
+  "fonts": {
+    "regular_name": "arial.ttf",
+    "regular_sha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+    "bold_name": "arialbd.ttf",
+    "bold_sha256": "e8f4e3baf6cc35fed6fcce3a540e8b39e8f6cda1d22a28f2ec8f526fef7a43f5",
+    "redistributed": false
+  },
+  "data_counts": {
+    "studies": 31,
+    "decisions": 279,
+    "flags": 9,
+    "NA_classifications": 107,
+    "quantitative_records": 73,
+    "removal_records": 49,
+    "numeric_display": 47,
+    "process_cells": 72
+  },
+  "aggregate_counts": {
+    "mechanism": [
+      28,
+      2,
+      1
+    ],
+    "radioisotope": [
+      13,
+      1,
+      17
+    ],
+    "relevant_matrix": [
+      10,
+      15,
+      6
+    ],
+    "recovery_integration": [
+      10,
+      15,
+      6
+    ],
+    "pilot_field_facility": [
+      1,
+      22,
+      8
+    ],
+    "Capture": [
+      30,
+      0,
+      1
+    ],
+    "Concentrate": [
+      2,
+      0,
+      29
+    ],
+    "Recover": [
+      7,
+      14,
+      10
+    ],
+    "Stabilize": [
+      2,
+      0,
+      29
+    ]
+  },
+  "joint_CCRS_prefixes": [
+    30,
+    2,
+    1,
+    1
+  ],
+  "results": [
+    {
+      "figure": 2,
+      "dimensions": [
+        2250,
+        2083
+      ],
+      "pixel_identical_to_manuscript": true,
+      "difference_bbox": null,
+      "png_file_bytes_identical": true,
+      "pdf_page_content_stream_identical": true,
+      "pdf_file_bytes_identical": false,
+      "pdf_note": "Original drawing operators retained. Whole-file differences may reflect deterministic metadata, document IDs or serialization; see vector check."
+    },
+    {
+      "figure": 4,
+      "dimensions": [
+        2250,
+        2167
+      ],
+      "pixel_identical_to_manuscript": true,
+      "difference_bbox": null,
+      "png_file_bytes_identical": true,
+      "pdf_page_content_stream_identical": true,
+      "pdf_file_bytes_identical": false,
+      "pdf_note": "Original drawing operators retained. Whole-file differences may reflect deterministic metadata, document IDs or serialization; see vector check."
+    }
+  ],
+  "scientific_data_status": "PASS",
+  "pixel_comparison_status": "PASS",
+  "publication_status": "NOT_AUTHORIZED; author/license/citation metadata approval required"
+}

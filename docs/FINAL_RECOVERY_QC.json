@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "repeat_build_PNG_PDF_hashes_identical": true,
+  "canonical_279_classifications_preserved": true,
+  "canonical_numeric_core_preserved": true,
+  "independent_privacy_scan": "PASS",
+  "excluded_file_types": "PASS",
+  "all_scripts_syntax": "PASS",
+  "citation_metadata": "JSON-form YAML1.2 parsed successfully; required top-level CFF fields checked; no external full-schema validation claimed",
+  "protected_inputs_unchanged": 11,
+  "PDF_visual_QA": "Both regenerated one-page vector PDFs rendered with Poppler and inspected; no introduced layout differences",
+  "public_release": "NOT_AUTHORIZED",
+  "rights_and_licenses": "PENDING_AUTHOR_DECISION"
+}

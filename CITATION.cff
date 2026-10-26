@@ -1,0 +1,25 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite this dataset and its versioned Zenodo DOI once published. No DOI has yet been assigned.",
+  "type": "dataset",
+  "title": "Reproducibility data and plotting code for Figures 2 and 4 of From aqueous removal to a qualified waste form",
+  "authors": [
+    {
+      "family-names": "Kim",
+      "given-names": "Tae-Yoon"
+    },
+    {
+      "family-names": "Lee",
+      "given-names": "Seung-Yop"
+    }
+  ],
+  "abstract": "Canonical classifications and qualified observations, with original figure-specific plotting commands. Source conflicts and evidence limitations are retained.",
+  "keywords": [
+    "microalgae",
+    "cyanobacteria",
+    "radionuclides",
+    "reproducibility"
+  ],
+  "version": "1.0.0",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,12 @@
+{
+  "Figure2": {
+    "manuscript_part": "word/media/image2.png",
+    "png_sha256": "7b6e735c2e29c2e670e64fbfcfd2fedb856b8aaf0347b81d5bcedf9b7f8d1c05",
+    "pdf_sha256": "4bc651cc4bfb26a54d900032f8368f3fa0a5ab3830ff95e5fbb0348d9eb8a60c"
+  },
+  "Figure4": {
+    "manuscript_part": "word/media/image8.png",
+    "png_sha256": "5266e0e9f30b7adeffb47b264c2725c0e256f0bb79fdd4c034c46b32efc94da6",
+    "pdf_sha256": "d9c0ee8e305acaf16b6878fb73ef8f5e4636dce84554345e63b93d460bebb3f1"
+  }
+}
